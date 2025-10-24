@@ -334,6 +334,8 @@ body {
 
 .ar_img {
     height: 100px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px -6px #ff6c65;
 }
 
 
